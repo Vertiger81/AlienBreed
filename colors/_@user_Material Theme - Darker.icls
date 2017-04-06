@@ -3,7 +3,7 @@
     <property name="created">2017-01-04T15:01:51</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2016.3.2.0.0</property>
-    <property name="modified">2017-01-04T15:34:21</property>
+    <property name="modified">2017-04-06T13:32:07</property>
     <property name="originalScheme">Material Theme - Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.3" />
@@ -633,6 +633,33 @@
     <option name="ENUM_CONST">
       <value>
         <option name="FOREGROUND" value="9373a5" />
+      </value>
+    </option>
+    <option name="ERL_ATTRIBUTE">
+      <value>
+        <option name="FOREGROUND" value="2dff11" />
+      </value>
+    </option>
+    <option name="ERL_MACRO">
+      <value>
+        <option name="FOREGROUND" value="7a7909" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="ERL_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="fffb00" />
+      </value>
+    </option>
+    <option name="ERL_RECORDS">
+      <value>
+        <option name="FOREGROUND" value="2e7a0e" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="ERL_VARIABLES">
+      <value>
+        <option name="FOREGROUND" value="2def41" />
       </value>
     </option>
     <option name="ERRORS_ATTRIBUTES">
